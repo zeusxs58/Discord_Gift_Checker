@@ -1,5 +1,6 @@
-
+```bash
 Discord_Gift_Checker
+```
 
 **Funkcje**
 
