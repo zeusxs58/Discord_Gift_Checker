@@ -1,12 +1,12 @@
 
 Discord_Gift_Checker
 
-**Funkcje
+**Funkcje**
 
-✅ Walidacja formatów URL (discord.gift / discord.com/gifts / promo).
+**✅ Walidacja formatów URL (discord.gift / discord.com/gifts / promo).**
 
-🔎 Sprawdzenie statusu kodu przez oficjalny endpoint (z poszanowaniem limitów).
+**🔎 Sprawdzenie statusu kodu przez oficjalny endpoint (z poszanowaniem limitów).**
 
-📦 Obsługa pojedynczego linku lub pliku z wieloma linkami.
+**📦 Obsługa pojedynczego linku lub pliku z wieloma linkami.**
 
-🧾 Raport wyników (OK / nieważny / wykorzystany / nieznany).**
+**🧾 Raport wyników (OK / nieważny / wykorzystany / nieznany).**
